@@ -1,0 +1,62 @@
+[
+  {
+    "key": "Cái",
+    "value": "Cái",
+    "catalogy": "Khác",
+    "label": "Cái"
+  },
+  {
+    "key": "Cây",
+    "value": "Cây",
+    "catalogy": "Khác",
+    "label": "Cây"
+  },
+  {
+    "key": "Kg",
+    "value": "Kg",
+    "catalogy": "Khối lượng",
+    "label": "Kg"
+  },
+  {
+    "key": "Con",
+    "value": "Con",
+    "catalogy": "Khác",
+    "label": "Con"
+  },
+  {
+    "key": "Bộ",
+    "value": "Bộ",
+    "catalogy": "Khác",
+    "label": "Bộ"
+  },
+  {
+    "key": "Tấm",
+    "value": "Tấm",
+    "catalogy": "Khác",
+    "label": "Tấm"
+  },
+  {
+    "key": "mét",
+    "value": "mét",
+    "catalogy": "Độ dài",
+    "label": "mét"
+  },
+  {
+    "key": "Ø",
+    "value": "Ø",
+    "catalogy": "Độ dài",
+    "label": "Ø"
+  },
+  {
+    "key": "m²",
+    "value": "m²",
+    "catalogy": "Diện tích",
+    "label": "m²"
+  },
+  {
+    "key": "Màu sắc",
+    "value": "Màu sắc",
+    "catalogy": "Màu sắc",
+    "label": "Màu sắc"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "001",
+    "name": "Dọc mê trên",
+    "machining": "230,000",
+    "materials": ["001"],
+    "image": "https://baotayninh.vn/image/fckeditor/upload/2017/20171129/images/DSC_0050.JPG",
+    "amount": "2521",
+    "key": "dmt"
+  },
+  {
+    "id": "002",
+    "name": "Dọc mê dưới",
+    "machining": "1,530,000",
+    "materials": ["001"],
+    "image": "https://noithatminhthy.com.vn/wp-content/uploads/2017/11/ghe-nhua-gia-may-cao-cap-558x429.jpg",
+    "amount": "251",
+    "key": "dmd"
+  },
+  {
+    "id": "003",
+    "name": "Ngang mê trên",
+    "machining": "2,530,000",
+    "materials": ["001"],
+    "image": "https://lh3.googleusercontent.com/proxy/uFQTco_1PbPFVCi2oBp5I7Cr7tYJIMVdQuwEq-I5mfhLqxK3rl9LumoVxFez4ZutvG1xj5mbm13JyQRvjxADskxUgYa4SDhEZHfrY-_lpKSQZVoxKZ9DICFu_uCAPHeUbe-KaNzCNsA7zXO7BBdWuoW4KNZeo3c_xuNYjg",
+    "amount": "585",
+    "key": "nmt"
+  },
+  {
+    "id": "004",
+    "name": "Chống dọc biên",
+    "machining": "330,000",
+    "materials": ["001"],
+    "image": "https://lh3.googleusercontent.com/proxy/ARGQ8w3fN1gbKLMYpcVMuSyzNpoCKDSQzD4nxgjVptE-AbWK2gfCMnOXQ5SUxDvZ6aJvii-R9CHci1vFnFL2-MPieQbxmPmGzY76KsAbhhFveQDjxEB_DF6kj-4xWfcfG_tgrG1hI4y3k-1Vqn0CWo2azSbBrAwJ66LBOw",
+    "amount": "80",
+    "key": "cdb"
+  },
+  {
+    "id": "005",
+    "name": "Ngang tay nắm 1",
+    "machining": "125,000",
+    "materials": ["001"],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6SkfvJrSbQ7mPnDnPJ3abqyFmzq8PR5I7A&usqp=CAU",
+    "amount": "125",
+    "key": "ntn1"
+  },
+  {
+    "id": "006",
+    "name": "Ngang tay nắm 2",
+    "machining": "200,000",
+    "materials": ["001"],
+    "image": "https://ghemaynhua.com/wp-content/uploads/2018/01/ghe-cafe-san-vuon-nhua-gia-may.jpg",
+    "amount": "230",
+    "key": "ntn2"
+  },
+  {
+    "id": "007",
+    "name": "Dọc dưới",
+    "machining": "500,000",
+    "materials": ["001"],
+    "image": "https://ghemaynhua.com/wp-content/uploads/2018/01/ghe-nhua-gia-may-san-vuon.jpg",
+    "amount": "330",
+    "key": "dd"
+  },
+  {
+    "id": "008",
+    "name": "Ke góc",
+    "machining": "1,400,000",
+    "materials": ["002"],
+    "image": "https://lh3.googleusercontent.com/proxy/AvWCCF1ZaT1A71qTKFPjv-3Lz-xgCqmnrv7hkAt7Qa6vAe4lcVKlKdJRXjOdhFSJcQ-RrxQDYDXBsF7D85ABi-ZVNIw-RKmdwvZJyHtRIsEMXBxQKYzn4SP5ubg02B_YuFhToIUuMmQAzwmDKMWxOuigmH3FFfX25YmiyR75nde88HBYVC7TzeRXFrTzY485ECUq2Il2Z7AcvSvKFpjXZQ",
+    "amount": "370",
+    "key": "kg"
+  },
+  {
+    "id": "009",
+    "name": "Pas la",
+    "machining": "5,000,000",
+    "materials": ["005"],
+    "image": "https://pic.trangvangvietnam.com/395727078/pas%20vuong%204%20lo.jpg",
+    "amount": "75",
+    "key": "pl75"
+  },
+  {
+    "id": "010",
+    "name": "Dọc lưng",
+    "machining": "10,000,000",
+    "materials": ["001"],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jz4nIhxfD1r86Ld3smyxXlMmVyv7pTMvdxdvW_T0udxvt7riPwqcdtfVhJDYC4GBhRo&usqp=CAU",
+    "amount": "645",
+    "key": "dl"
+  },
+  {
+    "id": "011",
+    "name": "Ngang lưng",
+    "machining": "290,000",
+    "materials": ["001"],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3EP_RbVKmcmt0fk419IoAIWPhxQsXyh6eqg&usqp=CAU",
+    "amount": "530",
+    "key": "nl"
+  },
+  {
+    "id": "012",
+    "name": "Chống tựa lật",
+    "machining": "310,000",
+    "materials": ["007"],
+    "image": "https://xichdu.com/wp-content/uploads/2017/09/ghe-gia-may-mt236.jpg",
+    "amount": "1260",
+    "key": "dl"
+  },
+  {
+    "id": "013",
+    "name": "Pas la",
+    "machining": "90,000",
+    "materials": ["006"],
+    "image": "https://chancua.nao.vn/wp-content/uploads/2019/06/moc-treo.jpg",
+    "amount": "50",
+    "key": "pl50"
+  },
+  {
+    "id": "014",
+    "name": "Ngang",
+    "machining": "190,000",
+    "materials": ["001"],
+    "image": "https://nhuathaonguyen.com/wp-content/uploads/2020/07/a1ae318dfec07c35439b0231413d2134.jpg",
+    "amount": "585",
+    "key": "pl75"
+  },
+  {
+    "id": "015",
+    "name": "Chân đứng",
+    "machining": "257,000",
+    "materials": ["004"],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIq1ZAqEKZLzusxWezzhfIwpT1eK4W4Y64Ug&usqp=CAU",
+    "amount": "225",
+    "key": "cd"
+  },
+  {
+    "id": "016",
+    "name": "Pas la",
+    "machining": "992,000",
+    "materials": ["003"],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQu2hVTddpDzfZxbbu4831_vHrLDSpdPoO6siPqogcisJ7MaTKRduajTqXeRrMXMDbfvI&usqp=CAU",
+    "amount": "100",
+    "key": "pl100"
+  }
+]

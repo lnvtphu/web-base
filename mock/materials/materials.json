@@ -1,0 +1,78 @@
+[
+  {
+    "id": "001",
+    "name": "Vuông 20 x 0.6mm",
+    "catalogy": "Vuông",
+    "image": "http://baogiathepxaydung.net/wp-content/uploads/2018/06/gia-thep-hop-vuong-den.jpg",
+    "amount": "1256",
+    "units": [
+      {
+        "id": "1617800794882",
+        "catalogy": "Khối lượng",
+        "unit": 2,
+        "value": "4"
+      },
+      {
+        "id": "1617800794883",
+        "catalogy": "Độ dài",
+        "unit": 6,
+        "value": "10"
+      }
+    ],
+    "key": 1
+  },
+  {
+    "id": "002",
+    "name": "Vuông 14 x 0.6mm",
+    "catalogy": "Vuông",
+    "unit": 1,
+    "image": "http://giangiaolienviet.com/uploads/news/2019_01/thep.jpg",
+    "amount": "1256",
+    "key": 2
+  },
+  {
+    "id": "003",
+    "name": "Pát sắt 100x20x3mm",
+    "catalogy": "Pát sắt",
+    "image": "https://cf.shopee.vn/file/20a7ead14271b9a21089c1d7a482991d",
+    "amount": "1256",
+    "unit": 0,
+    "key": 3
+  },
+  {
+    "id": "004",
+    "name": "Hộp 20 x 40 x 0.6mm",
+    "catalogy": "Hộp",
+    "image": "https://steelvina.vn/upload/images/sp13.jpg",
+    "amount": "1256",
+    "unit": 1,
+    "key": 4
+  },
+  {
+    "id": "005",
+    "name": "Pát sắt 75x20x3 mm",
+    "image": "https://product.hstatic.net/1000193091/product/pat-sat-nep-ke-goc-chan-ban-ghe-tu_medium.jpg",
+    "amount": "1256",
+    "catalogy": "Pát sắt",
+    "unit": 0,
+    "key": 5
+  },
+  {
+    "id": "006",
+    "name": "Pas sắt 55*20*3mm",
+    "catalogy": "Pas sắt",
+    "image": "http://product.hstatic.net/1000327622/product/tai_xuong__2__1155a35f7afc45eaa5a08555f98e5980_large.jpg",
+    "amount": "1256",
+    "unit": 0,
+    "key": 6
+  },
+  {
+    "id": "007",
+    "name": "Sắt Ø21 x 0.6mm",
+    "image": "http://muabanthep.net/wp-content/uploads/2016/12/thepongtron01.jpg",
+    "amount": "1256",
+    "catalogy": "Sắt",
+    "unit": 1,
+    "key": 7
+  }
+]

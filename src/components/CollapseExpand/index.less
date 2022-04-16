@@ -1,0 +1,30 @@
+.container {
+  .icDown {
+    transform: rotateX(0deg);
+    transition: transform 0.25s;
+  }
+  .icUp {
+    transform: rotateX(180deg);
+    transition: transform 0.25s;
+  }
+  .contentExpanding {
+    max-height: 1000px;
+    overflow: hidden;
+    transition: max-height 1.25s;
+  }
+  .contentCollapsing {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.25s;
+  }
+}
+.container:nth-child(even) {
+  .lableContainer {
+    background-color: #f6feff;
+  }
+}
+.container:nth-child(odd) {
+  .lableContainer {
+    background-color: #fafafa;
+  }
+}
